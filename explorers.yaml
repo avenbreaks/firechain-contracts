@@ -1,0 +1,8 @@
+
+explorers:
+  - url: "https://explorer.thefirescan.com/api"
+    type: "blockscout"
+  #- url: "https://explorer.ephemery.pk910.de/api"
+  #  type: "blockscout"
+  #- url: "https://explorer.ephemery.dev"
+  #  type: "blockscout-alt"
